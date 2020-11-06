@@ -22,7 +22,7 @@ import java.awt.event.*;
 import java.util.concurrent.TimeUnit;
 /**
  *
- * @author Bhaskar Sengupta
+ * @author hardeep
  */
 public class COVID19_Tracker {
 
