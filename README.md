@@ -24,4 +24,4 @@ The COVID-19 statistics are scraped from [Worldometer](https://www.worldometers.
 2. Open the project in your preferred IDE.
 3. Add the jsoup 1.13.1 jar to your project's build path.
 4. Run the application to fetch and display the latest COVID-19 statistics.
-5. The jsoup version used in this project is 1.13.1. You can download it from this link.
+5. The jsoup version used in this project is 1.13.1. You can download it from this [link](https://jsoup.org/packages/jsoup-1.13.1.jar).
