@@ -1,10 +1,3 @@
-# COVID-19_Tracker-using-jsoup
-This is a hands on project to start working with jsoup
-
-
-# jsoup version used: 1.13.1.jar (https://jsoup.org/packages/jsoup-1.13.1.jar)
-# Content Source : (https://www.worldometers.info/coronavirus/)
-
 # COVID-19 Tracker
 
 This project is a hands-on example of working with jsoup, a Java library for working with real-world HTML. It scrapes data from a reliable source to track COVID-19 statistics.
